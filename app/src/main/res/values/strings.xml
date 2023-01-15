@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">QRDolgozat</string>
+    <string name="scan">Scan</string>
+    <string name="ment">MENT</string>
+    <string name="MENT">MENT</string>
+    <string name="SCAN">SCAN</string>
+</resources>
